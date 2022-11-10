@@ -1,4 +1,4 @@
-# Relational Database
+# Relational Database Workshops
 
 ## Overview
 For these workshops, I have learned scripting in Bash and how to create and use a relational database with PostgreSQL and SQL.
